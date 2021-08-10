@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\anton\Source\Repos\ITMO.Cpp.Practice14\ITMO.Cpp.Practice14.2\main.cpp(79,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ITMO.Cpp.Practice14.2.vcxproj -> C:\Users\anton\Source\Repos\ITMO.Cpp.Practice14\Debug\ITMO.Cpp.Practice14.2.exe
