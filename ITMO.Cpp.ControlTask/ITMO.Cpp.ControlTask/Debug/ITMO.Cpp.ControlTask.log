@@ -1,6 +1,0 @@
-﻿  Main.cpp
-C:\Users\anton\Source\Repos\ITMO.Cpp.ControlTask\ITMO.Cpp.ControlTask\Main.cpp(36,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\anton\Source\Repos\ITMO.Cpp.ControlTask\ITMO.Cpp.ControlTask\Main.cpp(43,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\anton\Source\Repos\ITMO.Cpp.ControlTask\ITMO.Cpp.ControlTask\Main.cpp(66,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\anton\Source\Repos\ITMO.Cpp.ControlTask\ITMO.Cpp.ControlTask\Main.cpp(84,21): warning C4018: '<': signed/unsigned mismatch
-  ITMO.Cpp.ControlTask.vcxproj -> C:\Users\anton\Source\Repos\ITMO.Cpp.ControlTask\Debug\ITMO.Cpp.ControlTask.exe
