@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ITMO.Cpp.Practice13.Exercise", "ITMO.Cpp.Practice13.Exercise\ITMO.Cpp.Practice13.Exercise.vcxproj", "{DEB2AAEE-329C-403B-A8CE-0A35BB2F8D46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEB2AAEE-329C-403B-A8CE-0A35BB2F8D46}.Debug|x64.ActiveCfg = Debug|x64
+		{DEB2AAEE-329C-403B-A8CE-0A35BB2F8D46}.Debug|x64.Build.0 = Debug|x64
+		{DEB2AAEE-329C-403B-A8CE-0A35BB2F8D46}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEB2AAEE-329C-403B-A8CE-0A35BB2F8D46}.Debug|x86.Build.0 = Debug|Win32
+		{DEB2AAEE-329C-403B-A8CE-0A35BB2F8D46}.Release|x64.ActiveCfg = Release|x64
+		{DEB2AAEE-329C-403B-A8CE-0A35BB2F8D46}.Release|x64.Build.0 = Release|x64
+		{DEB2AAEE-329C-403B-A8CE-0A35BB2F8D46}.Release|x86.ActiveCfg = Release|Win32
+		{DEB2AAEE-329C-403B-A8CE-0A35BB2F8D46}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD25547-7E31-4F5A-B6C4-3B4B790C336E}
+	EndGlobalSection
+EndGlobal
