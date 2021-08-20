@@ -1,0 +1,4 @@
+﻿  Time.cpp
+C:\Users\anton\Source\Repos\ITMO.Cpp.Practice11.Excercise1\ITMO.Cpp.Practice11.Excercise1\Time.cpp(51,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\anton\Source\Repos\ITMO.Cpp.Practice11.Excercise1\ITMO.Cpp.Practice11.Excercise1\Time.cpp(68,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ITMO.Cpp.Practice11.Excercise1.vcxproj -> C:\Users\anton\Source\Repos\ITMO.Cpp.Practice11.Excercise1\Debug\ITMO.Cpp.Practice11.Excercise1.exe
